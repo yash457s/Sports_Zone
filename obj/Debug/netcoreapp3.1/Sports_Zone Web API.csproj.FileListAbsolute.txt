@@ -131,3 +131,18 @@ C:\Users\HP\Desktop\Sports Zone\Sports_Zone Web API\Sports_Zone Web API\obj\Debu
 C:\Users\HP\Desktop\Sports Zone\Sports_Zone Web API\Sports_Zone Web API\obj\Debug\netcoreapp3.1\Sports_Zone Web API.dll
 C:\Users\HP\Desktop\Sports Zone\Sports_Zone Web API\Sports_Zone Web API\obj\Debug\netcoreapp3.1\Sports_Zone Web API.pdb
 C:\Users\HP\Desktop\Sports Zone\Sports_Zone Web API\Sports_Zone Web API\obj\Debug\netcoreapp3.1\Sports_Zone Web API.genruntimeconfig.cache
+C:\Users\HP\Desktop\Sports Zone\Sports_Zone Web API\Sports_Zone Web API\bin\Debug\netcoreapp3.1\Sports_Zone Web API.Views.dll
+C:\Users\HP\Desktop\Sports Zone\Sports_Zone Web API\Sports_Zone Web API\bin\Debug\netcoreapp3.1\Sports_Zone Web API.Views.pdb
+C:\Users\HP\Desktop\Sports Zone\Sports_Zone Web API\Sports_Zone Web API\obj\Debug\netcoreapp3.1\Sports_Zone Web API.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\Sports Zone\Sports_Zone Web API\Sports_Zone Web API\obj\Debug\netcoreapp3.1\Sports_Zone Web API.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\Sports Zone\Sports_Zone Web API\Sports_Zone Web API\obj\Debug\netcoreapp3.1\Sports_Zone Web API.TagHelpers.input.cache
+C:\Users\HP\Desktop\Sports Zone\Sports_Zone Web API\Sports_Zone Web API\obj\Debug\netcoreapp3.1\Sports_Zone Web API.TagHelpers.output.cache
+C:\Users\HP\Desktop\Sports Zone\Sports_Zone Web API\Sports_Zone Web API\obj\Debug\netcoreapp3.1\Sports_Zone Web API.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\Sports Zone\Sports_Zone Web API\Sports_Zone Web API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\Desktop\Sports Zone\Sports_Zone Web API\Sports_Zone Web API\obj\Debug\netcoreapp3.1\Razor\Views\UserAddresses\Create.cshtml.g.cs
+C:\Users\HP\Desktop\Sports Zone\Sports_Zone Web API\Sports_Zone Web API\obj\Debug\netcoreapp3.1\Razor\Views\UserAddresses\Delete.cshtml.g.cs
+C:\Users\HP\Desktop\Sports Zone\Sports_Zone Web API\Sports_Zone Web API\obj\Debug\netcoreapp3.1\Razor\Views\UserAddresses\Details.cshtml.g.cs
+C:\Users\HP\Desktop\Sports Zone\Sports_Zone Web API\Sports_Zone Web API\obj\Debug\netcoreapp3.1\Razor\Views\UserAddresses\Edit.cshtml.g.cs
+C:\Users\HP\Desktop\Sports Zone\Sports_Zone Web API\Sports_Zone Web API\obj\Debug\netcoreapp3.1\Razor\Views\UserAddresses\Index.cshtml.g.cs
+C:\Users\HP\Desktop\Sports Zone\Sports_Zone Web API\Sports_Zone Web API\obj\Debug\netcoreapp3.1\Sports_Zone Web API.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\Sports Zone\Sports_Zone Web API\Sports_Zone Web API\obj\Debug\netcoreapp3.1\Sports_Zone Web API.Views.pdb
